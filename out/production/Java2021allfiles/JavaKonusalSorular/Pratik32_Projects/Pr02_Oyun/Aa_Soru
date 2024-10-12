@@ -1,0 +1,25 @@
+/*
+	 1. Adim -->  10 farkli kutu olsun ve bu kutular farkli miktarlarda para icersin.
+	 				paraListesi isminde bir listte bunlari tutalim...
+
+	 2. Adim --> 10 tane kutu oluþturacagim. bu kutularin icerisine listte olusturdugum para miktarlarini
+	 			rastgele bir sekilde atayacagim. Kutu isminde bir class olusturalim. Olusturdugumuz bu classta
+	 			kutuNumarasi ve paraMiktari adinda iki int tipinde degisken olmali
+
+	 3. Adim  --> yeni bir class olusturalim. Kutular ismini verelim. kullanacagimiz methodlari burada olusturalim.
+
+
+	 4. Adim --> oyunu baslatalim, kullanicidan secmek istedigi kutu numarasini alalim, secilen kutuyu var olan
+	 kutularin icerisnden kaldirmamiz gerek...
+
+	 		public void kutuEkle(Kutu kutu)
+	 		public void kutuActir(int kutuNumarasi)
+	 		public int kalanKutuSayisi()
+	 		public int kutulardakiToplamParaMiktari()
+	 		public void secilenKutuyuKutularListesindenKaldir()
+	 		public void yapimcininTeklifiniAl()
+	 		public String acilmamisKutulariGoster()
+	 		public void kaybedilenTutarlar()
+
+
+	 */
